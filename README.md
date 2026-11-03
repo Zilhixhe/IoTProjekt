@@ -1,4 +1,4 @@
-# Fieldwork · Particle IoT starter
+# Particle IoT Projekt
 
 A template for turning a Particle Photon 2 into a small IoT application with agentic coding. Start with a working counter, then adapt it into a garden monitor, home assistant or another connected project.
 
